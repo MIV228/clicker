@@ -38,14 +38,14 @@
         tools:layout_editor_absoluteY="425dp" />
 
     <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="323dp"
-        android:layout_height="265dp"
+        android:id="@+id/imageView4"
+        android:layout_width="395dp"
+        android:layout_height="270dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.062"
+        app:layout_constraintVertical_bias="0.097"
         app:srcCompat="@drawable/anonymous" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
